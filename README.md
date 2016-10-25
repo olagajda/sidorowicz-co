@@ -7,3 +7,9 @@ The design doesn't consist of any photos so it's all about fonts, colors, moveme
 I built the site using [GRAV flat file CMS](https://getgrav.org/).
 
 ![](http://img.olagjd.com/sidorowicz-landing.png)
+
+
+![](http://img.olagjd.com/sidorowicz-projects.gif)
+
+
+![](http://img.olagjd.com/sidorowicz-contact.gif)
