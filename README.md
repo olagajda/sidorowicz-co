@@ -9,7 +9,7 @@ I built the site using [GRAV flat file CMS](https://getgrav.org/).
 ![](http://img.olagjd.com/sidorowicz-landing.png)
 
 
-![](http://img.olagjd.com/sidorowicz-projects.gif)
+![](http://img.olagjd.com/sidorowicz-projects-2.gif)
 
 
-![](http://img.olagjd.com/sidorowicz-contact.gif)
+![](http://img.olagjd.com/sidorowicz-contact-2.gif)
