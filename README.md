@@ -10,10 +10,10 @@ See it here: [CLICK](http://sidorowicz.co).
 
 
 
-![](http://img.olagjd.com/sidorowicz-landing.png)
+![](http://img.aleksandragajda.com/sidorowicz-landing.png)
 
 
-![](http://img.olagjd.com/sidorowicz-projects-2.gif)
+![](http://img.aleksandragajda.com/sidorowicz-projects-2.gif)
 
 
-![](http://img.olagjd.com/sidorowicz-contact-2.gif)
+![](http://img.aleksandragajda.com/sidorowicz-contact-2.gif)
